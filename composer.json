@@ -1,9 +1,9 @@
 {
-    "name": "piotrjura/blog-oop",
+    "name": "michael/blog",
     "authors": [
         {
-            "name": "Piotr Jura",
-            "email": "jura.piotrek@gmail.com"
+            "name": "Michael",
+            "email": "michael8bsd@icloud.com"
         }
     ],
     "autoload": {
